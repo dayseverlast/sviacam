@@ -1,0 +1,10 @@
+.video{
+	width:25%;
+	height:auto;
+	border: 1px solid gray;
+}	
+.canvas{
+	width:50%;
+	height:auto;
+	border: 1px solid gray;
+}
